@@ -1,4 +1,4 @@
-![Screenshot](ekron.png)
+![Screenshot](RINGSCE_v2.png)
 
 #  tango desktop project rebirth
 This is a rebirth from tango, this project will movement desktop project. This is a 2024 project rebirth.
