@@ -18,6 +18,7 @@ You can contact us here. Or try to chat with us at discord: plvicente
  * Created Project for macOS (aarch64) & Linux (arm64) - DONE
  * Converting XCode Project for CMake boilerplate - DONE
  * tango rebirth - DONE
+ * reboot from 0.8.6 version tango. Original here - DONE
  
 
 0.2 (alpha) 
