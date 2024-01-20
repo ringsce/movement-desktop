@@ -17,14 +17,13 @@ You can contact us here. Or try to chat with us at discord: plvicente
 
  * Created Project for macOS (aarch64) & Linux (arm64) - DONE
  * Converting XCode Project for CMake boilerplate - DONE
- * UDP Server - Not yet implemented
- * Switch between FPS and RPG - DONE
- * Launcher Qt6 for Game - DONE and not implemented (some read README inside folder)
+ * tango rebirth - DONE
  
+
 0.2 (alpha) 
- * Lua Script - not yet implemented
- * Metal Window - not yet implemented
- * UDP Server - To be DONE
+ * 64x64 - not yet implemented
+ * 128x128 - not yet implemented
+ * Libs fixed - To be DONE
  
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pdvicente@gleentech.com)
