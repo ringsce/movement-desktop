@@ -1,7 +1,7 @@
 ![Screenshot](RINGSCE_v2.png)
 
 #  tango desktop project rebirth
-This is a rebirth from tango, this project will movement desktop project. This is a 2024 project rebirth.
+This is a rebirth from tango, this project will be movement desktop project. This is a 2024 project rebirth.
 
 ## Our Goals
 Our goal for this project is to deliver an open-source library for desktop icons
