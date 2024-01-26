@@ -18,3 +18,17 @@
 
 cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
 project(mdp LANGUAGE C CXX)
+include(CheckCCompilerFlag)
+
+
+if (${CMAKE_SYSTEM_NAME} MATCHES "Darwin")
+    set(MACOSX TRUE)
+endif()
+
+set(CMAKE_REQUIRED_LINK_OPTIONS "-arch;x86_64")
+check_c_compiler_flag("-arch x86_64" x86_64Supported)
+message("x86_64Supported=${x86_64Supported}")
+
+set(CMAKE_REQUIRED_LINK_OPTIONS "-arch;arm64")
+check_c_compiler_flag("-arch arm64" arm64Supported)
+message("arm64Supported=${arm64Supported}")
